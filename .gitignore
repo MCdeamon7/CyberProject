@@ -3,6 +3,7 @@
 
 # Ignora la cartella mySQL/data
 mySQL/data
+radius-mysql/*
 
 # Ignora tutti i file .txt
 *.txt
