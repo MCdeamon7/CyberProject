@@ -49,4 +49,4 @@ services:
       - MYSQL_PASSWORD=dalodbpass
       - MYSQL_ROOT_PASSWORD=dalorootpass
     volumes:
-      - "./radius-mysql:/var/lib/mysql"
+      - ./radius-mysql:/var/lib/mysql

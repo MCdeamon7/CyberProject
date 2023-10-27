@@ -4,6 +4,7 @@
 # Ignora la cartella mySQL/data
 mySQL/data
 radius-mysql/*
+deployment-premade
 
 # Ignora tutti i file .txt
 *.txt
